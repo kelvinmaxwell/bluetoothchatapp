@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.11979166666666667" />
+        <entry key="app/src/main/res/drawable/custom_progress_bar_horizontal.xml" value="0.16111111111111112" />
+        <entry key="app/src/main/res/layout/activity_device_list.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1925925925925926" />
+        <entry key="app/src/main/res/layout/device_name.xml" value="0.18055555555555555" />
+        <entry key="app/src/main/res/layout/devicel_list_item.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_bluetooth_chat.xml" value="0.18055555555555555" />
+        <entry key="app/src/main/res/layout/fragment_data_monitor.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/message_layout.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/bluetooth_chat.xml" value="0.18055555555555555" />
+        <entry key="app/src/main/res/menu/main.xml" value="0.18055555555555555" />
+        <entry key="app/src/main/res/menu/menu_device_list.xml" value="0.1925925925925926" />
+        <entry key="app/src/main/res/menu/menu_main_activity.xml" value="0.1925925925925926" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Embedded JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
